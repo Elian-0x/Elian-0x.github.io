@@ -5,4 +5,4 @@
 Notes, cheatsheet, links...
 ```
 
-[linux](linux.md)
+* [GNU/linux](linux.md)
