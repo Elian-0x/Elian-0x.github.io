@@ -12,6 +12,7 @@ CPU - Central Processing Unit
 * [Microarchitecture](https://fr.wikipedia.org/wiki/Microarchitecture)
 * [Architecture de von Neumann](https://fr.wikipedia.org/wiki/Architecture_de_von_Neumann)
 * [Unité arithmétique et logique](https://fr.wikipedia.org/wiki/Unit%C3%A9_arithm%C3%A9tique_et_logique)
+* [Endianness](https://fr.wikipedia.org/wiki/Endianness)
 
 
 ### Jeu d'instruction
@@ -24,6 +25,9 @@ CPU - Central Processing Unit
 * [Mode d'adressage](https://fr.wikipedia.org/wiki/Mode_d%27adressage)
 * [Drapeau (flag)](https://fr.wikipedia.org/wiki/Drapeau_(informatique))
 
+### Mémoire
+
+* [Alignement](https://fr.wikipedia.org/wiki/Alignement_en_m%C3%A9moire)
 
 ### Familles
 
@@ -36,6 +40,8 @@ CPU - Central Processing Unit
 * [Firmware](https://fr.wikipedia.org/wiki/Firmware)
 * [Langage machine](https://fr.wikipedia.org/wiki/Langage_machine)
 * [Liste des microprocesseurs Intel](https://fr.wikipedia.org/wiki/Liste_des_microprocesseurs_Intel)
+
+<br/>
 
 <hr/>
 
