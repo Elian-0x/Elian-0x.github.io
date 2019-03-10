@@ -44,6 +44,10 @@ GNU/Linux...
 
 * [Linux syscall reference](http://syscalls.kernelgrok.com/)
 
+### Sources
+
+* [Src & docs](https://elixir.bootlin.com/linux/v5.0.1/source)
+
 
 <hr/>
 
