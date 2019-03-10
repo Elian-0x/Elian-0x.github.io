@@ -8,6 +8,7 @@ GNU/Linux...
 ### Généralités
 
 * [Gnu is Not Unix](https://fr.wikipedia.org/wiki/GNU)
+* [Le manifeste GNU](http://www.gnu.org/gnu/manifesto.html)
 * [GNU Hurd](https://fr.wikipedia.org/wiki/GNU_Hurd)
 * [Linux ou GNU/Linux](https://fr.wikipedia.org/wiki/Linux_ou_GNU/Linux)
 * [The Linux Documentation Project](http://www.tldp.org/)
