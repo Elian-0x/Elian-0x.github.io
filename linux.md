@@ -5,6 +5,10 @@
 GNU/Linux...
 ```
 
+### Généralités
+
+* [Linux ou GNU/Linux](https://fr.wikipedia.org/wiki/Linux_ou_GNU/Linux)
+
 ### Droits d'accès
 
 * [Chmod](https://fr.wikipedia.org/wiki/Chmod)
