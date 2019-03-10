@@ -8,6 +8,7 @@ GNU/Linux...
 ### Généralités
 
 * [Linux ou GNU/Linux](https://fr.wikipedia.org/wiki/Linux_ou_GNU/Linux)
+* [The Linux Documentation Project](http://www.tldp.org/)
 
 ### Droits d'accès
 
@@ -24,6 +25,10 @@ GNU/Linux...
 
 * [Système de fichiers](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_fichiers)
 * [Ext4](https://fr.wikipedia.org/wiki/Ext4)
+* [Filesystem Hierarchy Standard](https://fr.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [/dev/null](https://fr.wikipedia.org/wiki/P%C3%A9riph%C3%A9rique_nul)
+* [/dev/zero](https://fr.wikipedia.org/wiki//dev/zero)
+* [/dev/random](https://fr.wikipedia.org/wiki//dev/random)
 
 ### Environnement
 
@@ -41,3 +46,4 @@ GNU/Linux...
 
 
 #
+->2019<-
