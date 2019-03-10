@@ -45,6 +45,6 @@ GNU/Linux...
 * [Linux syscall reference](http://syscalls.kernelgrok.com/)
 
 
-#
+<hr/>
 
-<p align="center">2019</p>
+<p align="center">2018-2019</p>
