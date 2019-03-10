@@ -54,6 +54,9 @@ GNU/Linux...
 
 * [Linux source code & docs](https://elixir.bootlin.com/linux/v5.0.1/source)
 
+### Divers
+
+* [Free Software Foundation](https://fr.wikipedia.org/wiki/Free_Software_Foundation)
 
 <hr/>
 
