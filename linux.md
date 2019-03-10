@@ -58,6 +58,7 @@ GNU/Linux...
 
 * [Free Software Foundation](https://fr.wikipedia.org/wiki/Free_Software_Foundation)
 * [Richard Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman)
+* [Linus Torvald](https://fr.wikipedia.org/wiki/Linus_Torvalds)
 
 <hr/>
 
