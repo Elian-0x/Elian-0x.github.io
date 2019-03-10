@@ -7,6 +7,7 @@ GNU/Linux...
 
 ### Généralités
 
+* [Gnu is Not Unix](https://fr.wikipedia.org/wiki/GNU)
 * [GNU Hurd](https://fr.wikipedia.org/wiki/GNU_Hurd)
 * [Linux ou GNU/Linux](https://fr.wikipedia.org/wiki/Linux_ou_GNU/Linux)
 * [The Linux Documentation Project](http://www.tldp.org/)
