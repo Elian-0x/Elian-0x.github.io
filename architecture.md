@@ -37,6 +37,7 @@ CPU - Central Processing Unit
 ### Divers
 
 * [Bit](https://fr.wikipedia.org/wiki/Bit)
+* [Byte](https://fr.wikipedia.org/wiki/Byte)
 * [Firmware](https://fr.wikipedia.org/wiki/Firmware)
 * [Langage machine](https://fr.wikipedia.org/wiki/Langage_machine)
 * [Liste des microprocesseurs Intel](https://fr.wikipedia.org/wiki/Liste_des_microprocesseurs_Intel)
