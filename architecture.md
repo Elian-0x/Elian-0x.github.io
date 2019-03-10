@@ -22,6 +22,7 @@ CPU
 * [Registre de processeur](https://fr.wikipedia.org/wiki/Registre_de_processeur)
 * [Registres du x86](https://fr.wikipedia.org/wiki/Registres_du_x86)
 * [Mode d'adressage](https://fr.wikipedia.org/wiki/Mode_d%27adressage)
+* [Drapeau (flag)](https://fr.wikipedia.org/wiki/Drapeau_(informatique))
 
 
 ### Familles
@@ -31,6 +32,7 @@ CPU
 
 ### Divers
 
+* [Bit](https://fr.wikipedia.org/wiki/Bit)
 * [Firmware](https://fr.wikipedia.org/wiki/Firmware)
 * [Langage machine](https://fr.wikipedia.org/wiki/Langage_machine)
 
@@ -38,21 +40,4 @@ CPU
 <hr/>
 
 <p align="center">2018-2019</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* [Bit](https://fr.wikipedia.org/wiki/Bit)
-
-* [Drapeau (flag)](https://fr.wikipedia.org/wiki/Drapeau_(informatique))
 
