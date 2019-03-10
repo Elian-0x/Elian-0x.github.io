@@ -43,6 +43,8 @@ GNU/Linux...
 ### Kernel
 
 * [Linux syscall reference](http://syscalls.kernelgrok.com/)
+* [Noyau linux](https://fr.wikipedia.org/wiki/Noyau_Linux)
+* [The Linux Kernel Archives ](https://www.kernel.org/)
 
 ### Sources
 
