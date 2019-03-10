@@ -57,6 +57,7 @@ GNU/Linux...
 ### Divers
 
 * [Free Software Foundation](https://fr.wikipedia.org/wiki/Free_Software_Foundation)
+* [Richard Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman)
 
 <hr/>
 
