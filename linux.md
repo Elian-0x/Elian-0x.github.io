@@ -46,7 +46,7 @@ GNU/Linux...
 
 ### Sources
 
-* [Src & docs](https://elixir.bootlin.com/linux/v5.0.1/source)
+* [Linux source code & docs](https://elixir.bootlin.com/linux/v5.0.1/source)
 
 
 <hr/>
