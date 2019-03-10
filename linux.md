@@ -46,4 +46,5 @@ GNU/Linux...
 
 
 #
-->2019<-
+
+<p align="center">2019</p>
