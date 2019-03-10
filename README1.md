@@ -1,3 +1,0 @@
-# testing
-
-[dgg](test.md)
