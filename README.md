@@ -2,7 +2,7 @@
 ## Sommaire
 
 ```
-Notes...
+Notes, cheatsheet, links...
 ```
 
-
+[linux](linux.md)
