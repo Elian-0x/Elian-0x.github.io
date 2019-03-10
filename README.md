@@ -5,8 +5,8 @@
 Notes, cheatsheet, links...
 ```
 
+* [CPU](architecture.md)
 * [GNU/linux](linux.md)
-
 
 <br/>
 
