@@ -47,4 +47,4 @@ GNU/Linux...
 
 <hr/>
 
-<p align="center">2018-2019</p>
+<p align="center">knowledge worker 2018-2019</p>
