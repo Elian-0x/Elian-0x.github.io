@@ -60,6 +60,7 @@ GNU/Linux...
 * [Richard Stallman](https://fr.wikipedia.org/wiki/Richard_Stallman)
 * [Linus Torvald](https://fr.wikipedia.org/wiki/Linus_Torvalds)
 * [Alan Cox](https://fr.wikipedia.org/wiki/Alan_Cox)
+* [Brian Fox](https://fr.wikipedia.org/wiki/Brian_Fox)
 
 <hr/>
 
