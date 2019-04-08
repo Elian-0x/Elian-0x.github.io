@@ -28,6 +28,7 @@ CPU - Central Processing Unit
 ### Mémoire
 
 * [Alignement](https://fr.wikipedia.org/wiki/Alignement_en_m%C3%A9moire)
+* [Memory management unit (MMU)](https://en.wikipedia.org/wiki/Memory_management_unit)
 
 ### Familles
 
